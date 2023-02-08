@@ -1,1 +1,1 @@
-for output visit this link :   https://main--superb-douhua-930011.netlify.app/linechart
+for output visit this link :   https://main--superb-douhua-930011.netlify.app
